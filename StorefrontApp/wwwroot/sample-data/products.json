@@ -1,0 +1,37 @@
+﻿[
+  {
+    "productId": 1,
+    "productName": "Comic Book",
+    "price": 5.99,
+    "image": "SupermanComicBook.jpeg"
+  },
+
+  {
+    "productId": 2,
+    "productName": "Figurine",
+    "price": 20,
+    "image": "NeoFigurine.jpeg"
+  },
+
+  {
+    "productId": 3,
+    "productName": "Box, Magic The Gathering",
+    "price": 99.99,
+    "image": "MTGBox.jpeg"
+  },
+
+  {
+    "productId": 4,
+    "productName": "Dice, Variety Pack",
+    "price": 10.99,
+    "image": "GamingDiceVariety.jpeg"
+  },
+
+  {
+    "productId": 5,
+    "productName": "Board Game",
+    "price": 49.99,
+    "image": "SoCGame.jpeg"
+  }
+]
+

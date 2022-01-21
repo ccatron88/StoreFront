@@ -1,0 +1,50 @@
+/* /Pages/Index.razor.rz.scp.css */
+.img-carousel[b-m6wnjwgacf] {
+    width: 100%;
+    max-height: 525px !important;
+}
+/* /Pages/ShoppingCart.razor.rz.scp.css */
+.img-shoppingCart[b-hrjerw9o27] {
+    width: 100px;
+    height: auto;
+}
+/* /Pages/Store.razor.rz.scp.css */
+.bg-cart[b-lw7oyvpulk] {
+    background-color: rgba(130, 40, 247, 0.7);
+}
+/* /Shared/MainLayout.razor.rz.scp.css */
+.page[b-cs6gnsyjhf] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-cs6gnsyjhf] {
+    /*    background-color: rgb(236, 165, 242);*/
+    background-color: rgba(130, 40, 247, 0.6);
+}
+/* /Shared/NavMenu.razor.rz.scp.css */
+.navbar-toggler[b-n9ertij2mq] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.navbar-brand[b-n9ertij2mq] {
+    font-size: 1.1rem;
+}
+
+.oi[b-n9ertij2mq] {
+    width: 1.25rem;
+    font-size: 1rem;
+    vertical-align: text-top;
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-n9ertij2mq] {
+        display: none;
+    }
+
+    .collapse[b-n9ertij2mq] {
+        /* Never collapse the sidebar for wide screens */
+        display: block;
+    }
+}

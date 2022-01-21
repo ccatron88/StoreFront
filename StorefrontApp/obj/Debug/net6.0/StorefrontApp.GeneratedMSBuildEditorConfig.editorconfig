@@ -1,0 +1,51 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = StorefrontApp
+build_property.RootNamespace = StorefrontApp
+build_property.ProjectDir = /Users/chris/C#_Projects/StorefrontApp/StorefrontApp/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/chris/C#_Projects/StorefrontApp/StorefrontApp
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/chris/C\#_Projects/StorefrontApp/StorefrontApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/chris/C\#_Projects/StorefrontApp/StorefrontApp/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/chris/C\#_Projects/StorefrontApp/StorefrontApp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/chris/C\#_Projects/StorefrontApp/StorefrontApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-m6wnjwgacf
+
+[/Users/chris/C\#_Projects/StorefrontApp/StorefrontApp/Pages/ShoppingCart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hvcHBpbmdDYXJ0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-hrjerw9o27
+
+[/Users/chris/C\#_Projects/StorefrontApp/StorefrontApp/Pages/Store.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3RvcmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-lw7oyvpulk
+
+[/Users/chris/C\#_Projects/StorefrontApp/StorefrontApp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-cs6gnsyjhf
+
+[/Users/chris/C\#_Projects/StorefrontApp/StorefrontApp/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-n9ertij2mq

@@ -1,0 +1,24 @@
+.navbar-toggler[b-n9ertij2mq] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.navbar-brand[b-n9ertij2mq] {
+    font-size: 1.1rem;
+}
+
+.oi[b-n9ertij2mq] {
+    width: 1.25rem;
+    font-size: 1rem;
+    vertical-align: text-top;
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-n9ertij2mq] {
+        display: none;
+    }
+
+    .collapse[b-n9ertij2mq] {
+        /* Never collapse the sidebar for wide screens */
+        display: block;
+    }
+}

@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{0C249E8A-CD7D-49EE-B052-2EC237BAADE3}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="StorefrontApp/Pages/Index.razor" Line="3" Column="19" />
+      <File FileName="StorefrontApp/Shared/NavMenu.razor" Line="1" Column="68" />
+      <File FileName="StorefrontApp/wwwroot/index.html" Line="36" Column="1" />
+      <File FileName="StorefrontApp/Models/Product.cs" Line="8" Column="16" />
+      <File FileName="StorefrontApp/Pages/ShoppingCart.razor" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StorefrontApp" expanded="True">
+            <Node name="StorefrontApp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="Blazorise.Components" expanded="True" selected="True">
+                    <Node name="Microsoft.AspNetCore.Components" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Shared" expanded="True">
+                <Node name="NavMenu.razor" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="images" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.StorefrontApp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

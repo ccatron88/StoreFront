@@ -1,0 +1,10 @@
+﻿.page {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    /*    background-color: rgb(236, 165, 242);*/
+    background-color: rgba(130, 40, 247, 0.6);
+}

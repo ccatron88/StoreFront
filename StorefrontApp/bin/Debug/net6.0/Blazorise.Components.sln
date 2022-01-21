@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB9-8B4A-11D0-8D11-00A0C91BC942}") = "Blazorise.Components", "Blazorise.Components.dll", "{D063B0D2-655B-4223-91D9-53C3A4132A31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D063B0D2-655B-4223-91D9-53C3A4132A31}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{D063B0D2-655B-4223-91D9-53C3A4132A31}.Default|Any CPU.Build.0 = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11D3428C-E008-4642-BB06-18F785098DCD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/chris/C#_Projects/StorefrontApp/StorefrontApp/StorefrontApp.csproj": {}
+  },
+  "projects": {
+    "/Users/chris/C#_Projects/StorefrontApp/StorefrontApp/StorefrontApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chris/C#_Projects/StorefrontApp/StorefrontApp/StorefrontApp.csproj",
+        "projectName": "StorefrontApp",
+        "projectPath": "/Users/chris/C#_Projects/StorefrontApp/StorefrontApp/StorefrontApp.csproj",
+        "packagesPath": "/Users/chris/.nuget/packages/",
+        "outputPath": "/Users/chris/C#_Projects/StorefrontApp/StorefrontApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chris/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Blazorise": {
+              "target": "Package",
+              "version": "[0.9.5.4, )"
+            },
+            "Blazorise.Bootstrap": {
+              "target": "Package",
+              "version": "[0.9.5.4, )"
+            },
+            "Blazorise.Components": {
+              "target": "Package",
+              "version": "[0.9.5.4, )"
+            },
+            "Blazorise.Icons.FontAwesome": {
+              "target": "Package",
+              "version": "[0.9.5.4, )"
+            },
+            "Blazorise.Snackbar": {
+              "target": "Package",
+              "version": "[0.9.5.4, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.1, 6.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
