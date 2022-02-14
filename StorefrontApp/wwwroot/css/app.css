@@ -42,6 +42,13 @@ a, .btn-link {
     color: white;
 }
 
+.brand-neighbor {
+    font-weight: lighter;
+    font-size: small;
+    padding-left: 10px;
+    padding-top: 3px;
+}
+
 .valid.modified:not([type=checkbox]) {
     outline: 1px solid #26b050;
 }

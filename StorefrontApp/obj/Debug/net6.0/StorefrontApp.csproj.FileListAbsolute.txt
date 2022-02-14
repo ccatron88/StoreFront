@@ -836,3 +836,4 @@
 /Users/chris/C#_Projects/StorefrontApp/StorefrontApp/obj/Debug/net6.0/scopedcss/Pages/ShoppingCart.razor.rz.scp.css
 /Users/chris/C#_Projects/StorefrontApp/StorefrontApp/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
 /Users/chris/C#_Projects/StorefrontApp/StorefrontApp/obj/Debug/net6.0/scopedcss/Pages/Store.razor.rz.scp.css
+/Users/chris/C#_Projects/StorefrontApp/StorefrontApp/obj/Debug/net6.0/scopedcss/Pages/LoginSignUp.razor.rz.scp.css

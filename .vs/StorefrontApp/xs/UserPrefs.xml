@@ -1,28 +1,29 @@
 ﻿<Properties StartupConfiguration="{0C249E8A-CD7D-49EE-B052-2EC237BAADE3}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StorefrontApp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="StorefrontApp/Pages/Index.razor">
     <Files>
-      <File FileName="StorefrontApp/Pages/Index.razor" Line="3" Column="19" />
-      <File FileName="StorefrontApp/Shared/NavMenu.razor" Line="1" Column="68" />
-      <File FileName="StorefrontApp/wwwroot/index.html" Line="36" Column="1" />
-      <File FileName="StorefrontApp/Models/Product.cs" Line="8" Column="16" />
-      <File FileName="StorefrontApp/Pages/ShoppingCart.razor" Line="1" Column="1" />
+      <File FileName="StorefrontApp/Pages/Index.razor" Line="36" Column="127" />
+      <File FileName="StorefrontApp/Pages/LoginSignUp.razor" Line="1" Column="1" />
+      <File FileName="StorefrontApp/Pages/Store.razor" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="StorefrontApp" expanded="True">
             <Node name="StorefrontApp" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True">
-                  <Node name="Blazorise.Components" expanded="True" selected="True">
-                    <Node name="Microsoft.AspNetCore.Components" expanded="True" />
-                  </Node>
-                </Node>
-              </Node>
               <Node name="Models" expanded="True" />
-              <Node name="Pages" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="ShoppingCart.razor" expanded="True" />
+                <Node name="Store.razor" expanded="True" />
+              </Node>
               <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
               <Node name="Shared" expanded="True">
+                <Node name="MainLayout.razor" expanded="True" />
                 <Node name="NavMenu.razor" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
@@ -37,11 +38,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.StorefrontApp PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

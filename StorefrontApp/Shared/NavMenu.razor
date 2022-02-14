@@ -5,22 +5,23 @@
 <nav style="height: 2rem" class="navbar navbar-expand-sm navcolor sticky-top">
     <div class="container-fluid p-0">
         <a class="navbar-brand" href="#">InterStellar Gaming</a>
+        <NavLink class="brand-neighbor" style="color: white;" href="/login" Match="NavLinkMatch.All">Login/Sign Up</NavLink>
         <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon custom-toggler"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarContent">
             <div class="navbar-nav ml-auto">
                 <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                    <span class="oi oi-home" aria-hidden="true"></span> Home
+                    <span class="fas fa-home" aria-hidden="true"></span> Home
                 </NavLink>
                 <NavLink class="nav-link" href="/store" Match="NavLinkMatch.All">
-                    <span class="oi oi-basket" aria-hidden="true"></span> Store
+                    <span class="fas fa-store" aria-hidden="true"></span> Store
                 </NavLink>
                 <NavLink class="nav-link" href="/shoppingcart" Match="NavLinkMatch.All">
-                    <span class="oi oi-cart" aria-hidden="true"></span> Shopping Cart @cartService.Total.ToString("C2")
+                    <span class="fas fa-shopping-cart" aria-hidden="true"></span> Shopping Cart @cartService.Total.ToString("C2")
                 </NavLink>
                 <NavLink class="nav-link" href="/about" Match="NavLinkMatch.All">
-                    <span class="oi oi-info" aria-hidden="true"></span> About
+                    <span class="fas fa-info" aria-hidden="true"></span> About
                 </NavLink>
             </div>
         </div>

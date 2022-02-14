@@ -14,7 +14,7 @@
         "outputPath": "/Users/chris/C#_Projects/StorefrontApp/StorefrontApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/chris/.config/NuGet/NuGet.Config"
+          "/Users/chris/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
